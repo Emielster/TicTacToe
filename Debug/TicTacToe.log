@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\emiel\Source\Repos\TicTacToe\TicTacToe\Main.cpp(90,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\emiel\Source\Repos\TicTacToe\TicTacToe\Main.cpp(91,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\emiel\Source\Repos\TicTacToe\TicTacToe\Main.cpp(93,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\emiel\Source\Repos\TicTacToe\TicTacToe\Main.cpp(94,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TicTacToe.vcxproj -> C:\Users\emiel\Source\Repos\TicTacToe\x64\Debug\TicTacToe.exe
